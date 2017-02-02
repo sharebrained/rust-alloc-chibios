@@ -1,0 +1,14 @@
+[package]
+name = "alloc-chibios"
+version = "0.1.0"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/sharebrained/rust-alloc-chibios"
+description = "Allocator for ChibiOS 2.6"
+keywords = ["chibios", "alloc"]
+authors = [
+	"Jared Boone <jared@sharebrained.com>",
+]
+
+[dependencies]
+chibios = "0.1.0"
