@@ -11,4 +11,4 @@ authors = [
 ]
 
 [dependencies]
-chibios = "0.1.0"
+chibios = { git = "https://github.com/sharebrained/rust-chibios.git"}
